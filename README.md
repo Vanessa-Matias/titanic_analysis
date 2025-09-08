@@ -97,8 +97,7 @@ A análise revelou que gênero, classe social e poder econômico foram os fatore
 
 👩‍💻 Autora
 
-Vanessa Matias
-Estudante de Análise e Desenvolvimento de Sistemas
+Vanessa Matias - Estudante de Análise e Desenvolvimento de Sistemas
 
 📝 Licença
 
